@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "sourceMap": true,
+        "outDir": "dist",
+        "strict": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "allowJs": true,
+        "skipLibCheck": true,
+        "rootDir": "./src",
+        "forceConsistentCasingInFileNames": true,
+        "sourceRoot": "./src"
+    }
+}
